@@ -1,3 +1,3 @@
 # Projekt-www
-Serwis społecznościowy LItee
+Serwis społecznościowy Litee
 projekt z podstaw technologii wwww - html,css,js(+biblioteki np. jQuery), PHP, mySQL

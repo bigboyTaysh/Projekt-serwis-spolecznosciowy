@@ -1,6 +1,4 @@
-# Projekt-www
-Serwis społecznościowy Litee  
-projekt z podstaw technologii www - 2018  
+# Serwis społecznościowy Litee
 **html, css, js(jQuery, Ajax), PHP, mySQL**
 
 Możliwości:  
